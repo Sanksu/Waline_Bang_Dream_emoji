@@ -1,0 +1,7 @@
+{
+    "name": "Mygo表情包",
+    "prefix": "Mygo表情包_",
+    "type": "png",
+    "icon": "Love",
+    "items": ["Love", "不会吧？", "生气", "探头"]
+  }
