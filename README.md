@@ -3,6 +3,7 @@ Bang Dream emoji for Waline
 ```
 //cdn.jsdelivr.net/gh/Sanksu/Waline_Bang_Dream_emoji@1.2.0/src/BangDream/
 //cdn.jsdelivr.net/gh/Sanksu/Waline_Bang_Dream_emoji@1.2.0/src/Mygo/
+//cdn.jsdelivr.net/gh/Sanksu/Waline_Bang_Dream_emoji@1.2.0/src/Popipa/
 ```
 ## Example:
 ```
@@ -18,6 +19,7 @@ Bang Dream emoji for Waline
     emoji: [
       '//cdn.jsdelivr.net/gh/Sanksu/Waline_Bang_Dream_emoji@1.2.0/src/BangDream/',
       '//cdn.jsdelivr.net/gh/Sanksu/Waline_Bang_Dream_emoji@1.2.0/src/Mygo/',
+      '//cdn.jsdelivr.net/gh/Sanksu/Waline_Bang_Dream_emoji@1.2.0/src/Popipa/'
     ],
   });
 </script>
